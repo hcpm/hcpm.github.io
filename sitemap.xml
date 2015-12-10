@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-< urlset>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset>
 
-< url>
-< loc>http://www.kanjk.com </loc>
-< changefreq> weekly </changefreq>
-< priority> 1.0 </priority>
+<url>
+<loc>http://www.kanjk.com </loc>
+<changefreq> weekly </changefreq>
+<priority> 1.0 </priority>
 </url>
 
-< url>
-< loc> http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E8%87%AA%E8%AF%8A%E9%97%AE%E8%AF%8A.html</loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc> http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E8%87%AA%E8%AF%8A%E9%97%AE%E8%AF%8A.html</loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
-< url>
-< loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%9E%82%E7%9B%B4%E5%8D%95%E7%A7%91.html </loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%9E%82%E7%9B%B4%E5%8D%95%E7%A7%91.html </loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
-< url>
-< loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E7%94%9F%E5%B7%A5%E5%85%B7.html </loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E7%94%9F%E5%B7%A5%E5%85%B7.html </loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
-< url>
-< loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E8%8D%AF%E7%94%B5%E5%95%86.html </loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E8%8D%AF%E7%94%B5%E5%95%86.html </loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
-< url>
-< loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E7%96%97%E7%A1%AC%E4%BB%B6.html </loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E7%96%97%E7%A1%AC%E4%BB%B6.html </loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
-< url>
-< loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E8%81%94%E5%B9%B3%E5%8F%B0.html </loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E8%81%94%E5%B9%B3%E5%8F%B0.html </loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
-< url>
-< loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E7%96%97%E6%96%B0%E5%AA%92%E4%BD%93.html </loc>
-< changefreq> weekly </changefreq>
-< priority> 0.8 </priority>
+<url>
+<loc>http://www.kanjk.com/%E7%9C%8B%E5%81%A5%E5%BA%B7-%E5%8C%BB%E7%96%97%E6%96%B0%E5%AA%92%E4%BD%93.html </loc>
+<changefreq> weekly </changefreq>
+<priority> 0.8 </priority>
 </url>
 
 </urlset>
